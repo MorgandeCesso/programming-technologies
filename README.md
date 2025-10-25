@@ -6,22 +6,32 @@
 
 Репозиторий состоит из двух основных частей:
 
-* `assets` - папка с различными проектами, которые создавались мной в рамках лабораторных работ. Вы можете использовать код оттуда для выполнения лабораторных работ.
-* `labs` - папка с лабораторными работами. Вы можете найти в ней непосредственно тексты лабораторных работ.
+- `assets` - папка с различными проектами, которые создавались мной в рамках лабораторных работ. Вы можете использовать код оттуда для выполнения лабораторных работ.
+- `labs` - папка с лабораторными работами. Вы можете найти в ней непосредственно тексты лабораторных работ.
+- `students` - папка с вашими отчетами и материалами по лабам.
+
+Для того, чтобы получить зачет по лабораторной работе, вам необходимо:
+
+- Сделать fork данного репозитория
+- Создать папку с вашими Ф.И.О. в папке students
+- Выполнить лабораторную работу
+- Написать отчет по лабораторной работе
+- Залить отчет и материалы лабораторной работы в ваш fork в папку с вашими Ф.И.О.
+- Сделать pull request в этот репозиторий
 
 ## Ссылки
 
-* [ЛР0](labs/lab0.md)
-* [ЛР1](labs/lab1.md)
-* [ЛР2](labs/lab2.md)
+- [ЛР0](labs/lab0.md)
+- [ЛР1](labs/lab1.md)
+- [ЛР2](labs/lab2.md)
 
 ## Полезные источники
 
-* [OpenAI Docs](https://platform.openai.com/docs/quickstart)
-* [Aiogram Docs](https://aiogram.readthedocs.io/en/latest/)
-* [Django Docs](https://docs.djangoproject.com/en/4.2/)
-* [Hugging Face Docs](https://huggingface.co/docs)
-* [Qwen HF Homepage](https://huggingface.co/Qwen)
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-* [Langchain Docs](https://python.langchain.com/docs/introduction/)
-* [LlamaIndex Docs](https://developers.llamaindex.ai/python/framework/)
+- [OpenAI Docs](https://platform.openai.com/docs/quickstart)
+- [Aiogram Docs](https://aiogram.readthedocs.io/en/latest/)
+- [Django Docs](https://docs.djangoproject.com/en/4.2/)
+- [Hugging Face Docs](https://huggingface.co/docs)
+- [Qwen HF Homepage](https://huggingface.co/Qwen)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [Langchain Docs](https://python.langchain.com/docs/introduction/)
+- [LlamaIndex Docs](https://developers.llamaindex.ai/python/framework/)
